@@ -1,4 +1,5 @@
 package com.bridge.com;
+/*Java Program to Check Whether an Alphabet is Vowel or Consonant*/
 
 public class Vowelorconsonant {
 	public static void main(String[] args) {
