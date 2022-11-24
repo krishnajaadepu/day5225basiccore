@@ -1,4 +1,6 @@
 package com.bridge.com;
+/*Java Program to Check Whether a Number is Even or Odd*/
+
 import java.util.Scanner;
 public class EvenOdd {
 	public static void main(String[] args) {
