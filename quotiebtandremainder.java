@@ -1,5 +1,5 @@
 package com.bridge.com;
-
+/*Java Program to Compute Quotient and Remainder*/
 import java.util.Scanner;
 
 public class quotiebtandremainder {
